@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building applications for my portfolio
 - 🌱 I’m currently learning Javascript, HTML & CSS
 - 🤔 I’m looking for help with finding an Apprenticeship that will accept a Jr. Developer eager to learn!
